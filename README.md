@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/emre-02/Testimonials-grid-section)
-- [Live Site URL]()
+- [Live Site URL](https://emre-02.github.io/Testimonials-grid-section/)
 
 ## My process
 
