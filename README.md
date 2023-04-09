@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](grid.png)
+![](images/grid.png)
 
 ### Links
 
